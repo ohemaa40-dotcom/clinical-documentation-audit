@@ -27,7 +27,6 @@ Discuss documentation barriers, clarify the workflow and repeat the audit with t
 ## Reproduce in LibreOffice Calc or Excel
 Enter the four table columns in A1:D6. In D2 enter `=C2/B2`, format as a percentage and copy through D6. In row 7 total B and C with `SUM`; calculate D7 with `=C7/B7`. Select categories and rates to create a horizontal bar chart. These are reproduction instructions, not a claim that this repository was created using LibreOffice.
 
-## Data and limitations
-All records and figures are fictional. No patient or employer data is included. Prepared with AI assistance. Review and understand the calculations before presenting the sample. This demonstrates an audit concept; it does not verify professional software experience.
+
 
 [Profile](https://github.com/ohemaa40-dotcom) · [LinkedIn](https://www.linkedin.com/in/priscilla-charway-msn-rn-phn-46a41171/)
