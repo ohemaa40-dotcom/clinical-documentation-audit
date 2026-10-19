@@ -19,13 +19,13 @@ A nursing-focused example of documentation completeness reporting.  Portfolio; e
 Completion rate = complete checks / reviewed checks. The overall rate uses total counts, rather than averaging percentages when denominators differ. These are 100 category checks, not necessarily 100 unique patients.
 
 ## Findings
-Pain reassessment has the lowest documentation completeness (70%), followed by patient education (80%). Missing documentation does not establish that care was omitted. This small fictional dataset cannot support conclusions about a real clinical team.
+Pain reassessment has the lowest documentation completeness (70%), followed by patient education (80%). Missing documentation does not establish that care was omitted. 
 
 ## Follow-up proposal
 Discuss documentation barriers, clarify the workflow and repeat the audit with the same definitions. Compare category rates and review sample size before interpreting changes.
 
 ## Reproduce in LibreOffice Calc or Excel
-Enter the four table columns in A1:D6. In D2 enter `=C2/B2`, format as a percentage and copy through D6. In row 7 total B and C with `SUM`; calculate D7 with `=C7/B7`. Select categories and rates to create a horizontal bar chart. These are reproduction instructions, not a claim that this repository was created using LibreOffice.
+Enter the four table columns in A1:D6. In D2 enter `=C2/B2`, format as a percentage and copy through D6. In row 7 total B and C with `SUM`; calculate D7 with `=C7/B7`. Select categories and rates to create a horizontal bar chart. T
 
 
 
