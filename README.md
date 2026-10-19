@@ -1,8 +1,8 @@
 # Clinical Documentation Audit
 
-**Demonstration portfolio sample | Synthetic data | AI-assisted**
+**Demonstration portfolio sample 
 
-A nursing-focused example of documentation completeness reporting. Newly prepared for this portfolio; not an employer project or a claim of prior professional tool experience.
+A nursing-focused example of documentation completeness reporting.  Portfolio; employer project/claim of prior professional tool experience.
 
 ## Results
 
